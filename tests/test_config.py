@@ -1,0 +1,23 @@
+class Config:
+    wallet_address = 'http://127.0.0.1:11222'
+    wallet_username = 'user'
+    wallet_password = 'pass'
+    daemon_address = 'http://127.0.0.1:11232'
+    daemon_username = 'user'
+    daemon_password = 'pass'
+    watch_only_wallet_address = 'http://127.0.0.1:11222'
+    watch_only_wallet_username = 'user'
+    watch_only_wallet_password = 'pass'
+    restore_height = 0
+    test_net_seed_a = 'coffee rest stand said leg muse defense wild about mighty horse melt really hum sharp seek honest brush depress beyond hundred silly confusion inhale birthday frozen'
+    integrated_test_address_a = 'iN3ea1cn4rWArhbX3mNPNhb7zpFmmRAgVKJEvaHvmJuQbXxQFFHimjc4j8Hn2G3aRQR3j2sNgkMjcTwBYLhSxkyr1XDXipKrL'
+    standard_test_address_a = 'Nn4uBvY5m3pTch1QrxTjmL84Vd91ZCGvWjReNfNbcGkgbdsr9ziqZqL3BC8VTG6FCQPnEhfNStuPJiFfR7AaVow22qMLo79uT'
+    payment_id_a = '8ca523f5e9506fed'
+    test_net_seed_b = 'through shape quick twice certainly situation quickly treat poor piece pattern once everyone teeth crash first father laughter cheek shove girlfriend tree any knee realize shield'
+    integrated_test_address_b = 'iN3ea1cn4rWArhbX3mNPNhb7zpFmmRAgVKJEvaHvmJuQbXxQFFHimjc4j8Hn2G3aRQR3j2sNgkMjcTwBYLhSxkyr1XDXipKrL'
+    standard_test_address_b = 'Nn4uBvY5m3pTch1QrxTjmL84Vd91ZCGvWjReNfNbcGkgbdsr9ziqZqL3BC8VTG6FCQPnEhfNStuPJiFfR7AaVow22qMLo79uT'
+    payment_id_b = '6e9ef82dc7d0be81'
+    txids = ['dcb72d5e709793f8df6f0daa443a497e68d8d75668f329fab5486500498b983f', 'a37eb3ecbc4f7effdeadeceedf4c1037c6c86ca60d005ec9e2c4439d8e20fa6e']
+    units = 1000000000000
+    fee = 10000000000
+    seconds = 1000
